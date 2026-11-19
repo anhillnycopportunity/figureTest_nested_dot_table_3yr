@@ -27,7 +27,7 @@ const X_MAX         = null;  // null = auto (rounded up to next tick)
 const TICK_INTERVAL = 5;     // gridline spacing on the dot plot
 const DECIMALS      = 1;     // decimals shown for all numbers in the table
 const DOT_RADIUS    = 6;
-const TITLE         = 'Test Data: Years 2022-2024 and Changes';
+const TITLE         = 'Annual NYC Poverty Rates and Percentage Point Change, 2022 - 2024';
 const FOOTNOTE      = '* Statistically significant change.';
 const DOWNLOAD_NAME = 'poverty-table';  // file name (no extension) for CSV and PNG downloads
 const PNG_SCALE     = 2;     // 2 = sharper image (2x pixel density)
